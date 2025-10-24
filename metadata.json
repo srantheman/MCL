@@ -1,12 +1,12 @@
 {
   "name": "THEEQULIZER",
   "symbol": "TQLZR",
-  description: "The Equalizer is a unique NFT collection that represents the power of equality and unity. Each NFT features a stunning design that symbolizes the importance of fairness and justice in our world. The collection is a tribute to the principles of equality and unity, and is a reminder of the importance of fairness and justice in our world.",
-  image: "https://raw.githubusercontent.com/srantheman/THEEQULIZER/main/THEEQULIZER.png",
-  social: {
-    twitter: "https://x.com/TheEqulizerCoin",
-    telegram: "https://t.me/The_Equlizer"
-  }
+  "description": "The Equalizer is a unique NFT collection that represents the power of equality and unity. Each NFT features a stunning design that symbolizes the importance of fairness and justice in our world. The collection is a tribute to the principles of equality and unity, and is a reminder of the importance of fairness and justice in our world.",
+  "image": "https://raw.githubusercontent.com/srantheman/THEEQULIZER/main/THEEQULIZER.png",
+  "social": {
+    "twitter": "https://x.com/TheEqulizerCoin",
+    "telegram": "https://t.me/The_Equlizer"
+  },
   "attributes": [],
   "properties": {
     "files": [
