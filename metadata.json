@@ -7,14 +7,8 @@
     "twitter": "https://x.com/TheEqulizerCoin",
     "telegram": "https://t.me/The_Equlizer"
   },
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/srantheman/THEEQULIZER/main/THEEQULIZER.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "fungible"
-  }
+  "mintAddress": "BCyN9Pb6ymHRnBNPntuqstsDmx5rb1CWDmSQsV5CvZMw",
+  "decimals": 6,
+  "supply": 1000000000,
+  "transactionSignature": "4MXvUzYriySNM8c8B29RNupensgcJQX7wm9s2BGEwFGhJ9qFXn9Us7oMHjpXnkyqfNTNqT2RpTrJmax7Fh1Jhs47"
 }
